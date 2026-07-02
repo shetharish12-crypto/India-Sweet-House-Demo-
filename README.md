@@ -1,101 +1,53 @@
-# 🍬 Sales & Inventory Analytics Dashboard
+# 🍬 Sales & Inventory Dashboard
 
-## 📌 Project Overview
+## 📌 About the Project
 
-This project presents an end-to-end Sales and Inventory Analytics Dashboard built using Power BI. The dashboard provides actionable insights into sales performance, inventory management, product profitability, regional trends, and operational efficiency.
+This Power BI project analyzes sales and inventory data to help businesses track performance, manage stock levels, and make better decisions.
 
-The goal of this project is to help businesses make data-driven decisions by transforming raw sales and inventory data into interactive visual reports.
-
----
-
-## 🚀 Key Features
-
-### 📊 Sales Dashboard
-- Net Sales Analysis
-- Gross Sales Tracking
-- Quantity Sold Analysis
-- Discount Impact Monitoring
-- GST Collection Tracking
-- Month-over-Month Performance Comparison
-- Regional Profit Analysis
-- Product-wise Profitability Analysis
-- Payment Mode Performance Tracking
-
-### 📦 Inventory Dashboard
-- Inventory Turnover Analysis
-- Sales Velocity Tracking
-- Reorder Level Monitoring
-- Wastage Analysis
-- Opening vs Closing Stock Comparison
-- Product-level Inventory Performance
-- Regional Inventory Breakdown
-- Category-wise Sales Distribution
-
-### 📄 Detailed Reporting
-- Transaction-level Sales Data
-- Product-wise Reports
-- Region-wise Analysis
-- City-wise Performance Tracking
-- Dynamic Filtering and Drill-down Capabilities
+The dashboard provides insights into:
+- Sales performance
+- Product profitability
+- Inventory turnover
+- Regional sales trends
+- Stock management
+- Payment analysis
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tools Used
 
 - Power BI
 - Power Query
-- DAX (Data Analysis Expressions)
-- Microsoft Excel
-- Data Modeling
-- Data Cleaning & Transformation
+- DAX
+- Excel
 
 ---
 
-## 📈 Business Insights Generated
+## 📊 Dashboard Highlights
 
-✅ Identified top-performing products by profit and sales
-
-✅ Analyzed sales trends across regions
-
-✅ Monitored inventory turnover and stock efficiency
-
-✅ Tracked wastage percentage and potential inventory risks
-
-✅ Evaluated discount impact on profitability
-
-✅ Identified preferred customer payment methods
-
-✅ Compared opening and closing inventory levels
-
-✅ Enabled KPI-driven decision making
-
----
-
-## 📋 Dashboard KPIs
-
-### Sales KPIs
+### Sales Dashboard
 - Net Sales
 - Gross Sales
 - Quantity Sold
-- GST Amount
-- Discount Amount
-- Gross Profit
+- Discount Analysis
+- GST Analysis
+- Regional Performance
+- Product Performance
 
-### Inventory KPIs
+### Inventory Dashboard
 - Inventory Turnover
 - Sales Velocity
-- Wastage Percentage
-- Reorder Level Items
-- Stock Movement Performance
+- Wastage Analysis
+- Reorder Level Tracking
+- Opening vs Closing Stock
 
 ---
 
-## 🎯 Project Objective
+## 🎯 Key Insights
 
-To create a comprehensive business intelligence solution that enables stakeholders to:
+- Identified top-performing products
+- Compared regional sales performance
+- Monitored inventory efficiency
+- Tracked wastage and stock movement
+- Analyzed payment methods and profitability
 
-- Monitor sales performance
-- Improve inventory efficiency
-- Optimize product profitability
-- Reduce inventory waste
-- Support strategic business decisions
