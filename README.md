@@ -1,6 +1,6 @@
-#INDIA SWEET HOUSE
+# INDIA SWEET HOUSE
 
-# 🍬 Sales & Inventory Dashboard
+## 🍬 Sales & Inventory Dashboard
 
 ## 📌 About the Project
 
